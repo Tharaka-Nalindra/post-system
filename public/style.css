@@ -1,0 +1,48 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+nav
+{
+    background-color: navy;
+    height: 60px;
+
+}
+
+ul{
+    float: right;
+    line-height: 60px;
+
+}
+
+ul li{
+    display: inline-block;
+}
+a{
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 18px;
+}
+
+a:hover{
+    color: gold;
+}
+
+
+.logo{
+    line-height: 70px;
+    font-size: 40px;
+    color: white;
+    margin-left: 10px;
+}
+
+.div_bag{
+    padding-top: 3%;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 3%;
+    position: relative;
+}
